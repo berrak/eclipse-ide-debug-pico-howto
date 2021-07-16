@@ -26,7 +26,7 @@ The first installer asks, is which variant to install, select `Eclipse IDE for e
 ![Embedded IDE](./images/eclips-installer-list-choice.png)
 
 Change only the install location, in my case to /opt/bekr, then press the INSTALL button.
-Once done, select LAUNCH and accept the default ~/eclipse-workspace.
+Once done, select LAUNCH and accept the default ~/eclipse-workspace which is the directory that will contain all our projects.
 
 ## Post installation configuration
 
